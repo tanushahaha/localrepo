@@ -1,0 +1,19 @@
+/* CSS file: styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Light blue background */
+    margin: 0;
+    padding: 20px;
+}
+
+.highlight {
+    color: #ff6347; /* Tomato color */
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #fff8dc; /* Cornsilk background for the text */
+    border: 2px solid #ffa07a; /* Light salmon border */
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
